@@ -16,4 +16,9 @@ public class biodata
     	obj.m1();
 		
 	}
+    public void m3()
+    {
+    	System.out.println("this is method 3");
+    }
+    }
 }
